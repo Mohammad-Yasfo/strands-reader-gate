@@ -1,0 +1,18 @@
+[
+  ["read question 3", "q3"],
+  ["read option b of question 2", "q2.b"],
+  ["go to question 5", "q5"],
+  ["read the instructions", "instructions"],
+  ["what's the title?", "title"],
+  ["read question 4 again", "q4"],
+  ["read the first option of question 4", "q4.a"],
+  ["spell the second word of the instructions", "spell:instructions:2"],
+  ["read option c of question 2", "q2.c"],
+  ["read question one", "q1"],
+  ["how many questions are there?", "overview"],
+  ["read the last question", "q5"],
+  ["say option d for question 2", "q2.d"],
+  ["read option a, question four", "q4.a"],
+  ["read the note to the reader", "instructions"],
+  ["spell the first word of question 3", "spell:q3:1"]
+]
